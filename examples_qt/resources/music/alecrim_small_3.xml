@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<music tempo="160" name="MyMusic" date="1296491009360">
+    <melody instrument="3">
+        <note duration="96" octave="3" height="7"/>
+        <note duration="32" octave="3" height="5"/>
+        <note duration="64" octave="3" height="4"/>
+        <note duration="32" octave="3" height="4"/>
+    </melody>
+    <rhythm instrument="257" variation="2"/>
+</music>
